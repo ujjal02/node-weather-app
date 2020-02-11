@@ -1,5 +1,3 @@
-console.log('Client side java script')
-
 const weatherFrom = document.querySelector('form')
 const search = document.querySelector('input')
 const msgOne = document.querySelector('#msg-1')
